@@ -21,3 +21,5 @@ You can click the Preview link to take a look at your changes.
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=white)
 ![Semantic Web](https://img.shields.io/badge/-Semantic%20Web-005A9C?logo=semanticweb&logoColor=white)
 <!-- ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white) -->
+
+<!-- numpy, docker, json, latex, openapi, postman, figma, sqlite, mongodb, npm, graphql, mqtt, bootspring -->
