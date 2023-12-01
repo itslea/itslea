@@ -1,4 +1,4 @@
-👋 Hey, I’m Lea, master's student of applied computer science.
+👋 <b>Hey, I’m Lea, master's student of applied computer science.</b>
 
 <!---
 itslea/itslea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,4 +22,4 @@ You can click the Preview link to take a look at your changes.
 ![Semantic Web](https://img.shields.io/badge/-Semantic%20Web-005A9C?logo=semanticweb&logoColor=white)
 <!-- ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white) -->
 
-<!-- numpy, docker, json, latex, openapi, postman, figma, sqlite, mongodb, npm, graphql, mqtt, bootspring -->
+<!-- https://simpleicons.org/ | numpy, docker, json, latex, openapi, postman, figma, sqlite, mongodb, npm, graphql, mqtt, bootspring -->
