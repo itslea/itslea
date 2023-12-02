@@ -5,8 +5,8 @@ I’m Lea, master's student of applied computer science.
 itslea/itslea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## 💻 Tech Stack
-![C#](https://img.shields.io/badge/-C%23-512BD4?logo=csharp&logoColor=white)
+### 💻 Tech Stack
+> ![C#](https://img.shields.io/badge/-C%23-512BD4?logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white)
