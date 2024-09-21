@@ -1,5 +1,5 @@
 ## 👋 Hey
-I’m Lea, m.sc. in applied computer science.
+I’m Lea, M.SC. in applied computer science.
 
 <!---
 itslea/itslea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
