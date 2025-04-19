@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-E76F00?logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-0F0F11?logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
@@ -22,5 +22,6 @@ You can click the Preview link to take a look at your changes.
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=white)
 ![Semantic Web](https://img.shields.io/badge/-Semantic%20Web-005A9C?logo=semanticweb&logoColor=white)
 <!-- ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white) -->
+<!-- ![Angular](https://img.shields.io/badge/-Angular-0F0F11?logo=angular&logoColor=white) -->
 
 <!-- https://simpleicons.org/ | numpy, docker, json, latex, openapi, postman, figma, sqlite, mongodb, npm, graphql, mqtt, bootspring -->
